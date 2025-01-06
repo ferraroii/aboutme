@@ -8,7 +8,6 @@ Se você compartilha essa paixão, vamos conectar! Estou sempre em busca de cola
 
 🚀 Skills e Stacks
 Linguagens e Tecnologias que já atuei:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferraroii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📊 Estatísticas
